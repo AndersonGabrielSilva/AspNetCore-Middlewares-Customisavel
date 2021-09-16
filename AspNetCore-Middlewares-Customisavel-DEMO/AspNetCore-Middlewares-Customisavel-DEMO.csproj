@@ -5,4 +5,8 @@
     <RootNamespace>AspNetCore_Middlewares_Customisavel_DEMO</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
 </Project>
